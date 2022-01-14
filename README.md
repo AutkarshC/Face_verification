@@ -10,6 +10,6 @@ https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
 + Creating an Image Embedding Model, building L1 Distance Layer and combining models to create a Siamese Neural Network
 
-+Setting Up a Loss Function, an Optimizer and building a Custom Training Step to train the Model
++ Setting Up a Loss Function, an Optimizer and building a Custom Training Step to train the Model
 
 + Making Predictions with a Siamese Neural network and evaluating the model by calculating Precision and Recall, finally saving the model in h5 file. Reloading the model to perform face Verification in real time using OpenCV
