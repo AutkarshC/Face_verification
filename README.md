@@ -13,3 +13,5 @@ https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 + Setting Up a Loss Function, an Optimizer and building a Custom Training Step to train the Model
 
 + Making Predictions with a Siamese Neural network and evaluating the model by calculating Precision and Recall, finally saving the model in h5 file. Reloading the model to perform face Verification in real time using OpenCV
+
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/55690067/164023838-b8879dfb-5c2f-4787-8545-1d29d4e8d301.png">
